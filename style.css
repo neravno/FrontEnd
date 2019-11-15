@@ -1,0 +1,20 @@
+.fa-facebook{
+    font-size: 50px;
+    color: red;
+}
+
+.prvi{
+    background-color: aqua;
+    width: 200px;
+    height: 150px;
+     display: block;
+    margin: 10px;
+}
+
+.drugi{
+    background-color: teal;
+     width: 200px;
+    height: 150px;
+    display: block;
+    margin: 10px;
+}
